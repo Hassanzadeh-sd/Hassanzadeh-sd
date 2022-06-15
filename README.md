@@ -8,8 +8,47 @@
   [LinkedIn](https://www.linkedin.com/in/hassanzadeh-sd/) - [Stack Overflow](https://stackoverflow.com/users/9533909/hassanzadeh-sd) - [Medium](https://medium.com/@hassanzadeh.sd) - [Twitter](https://twitter.com/hassanzadeh_sd) - [Email](mailto:hassanzadeh.sd@gmail.com)
   <br>
   
-<a href="https://stackexchange.com/users/13200517"><img src="https://stackexchange.com/users/flair/13200517.png" width="208" height="58" alt="profile for hassanzadeh.sd on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hassanzadeh.sd on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
   <br>
   <br>
 </div>
+
+
+Hi 👋 My name is "Sajjad Hassanzadeh" as "Saji"
+=============================================
+
+Python Back-end Developer and DevOps Engineer
+-------------------------
+
+* ✉️  You can contact me at [hassanzadeh.sd@gmail.com](mailto:hassanzadeh.sd)
+* 🤝  I'm open to collaborating on Related Projects
+
+<a href="https://www.twitter.com/hassanzadeh_sd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hassanzadeh_sd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+<a href="https://stackexchange.com/users/13200517"><img src="https://stackexchange.com/users/flair/13200517.png" width="208" height="58" alt="profile for hassanzadeh.sd on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hassanzadeh.sd on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://stackoverflow.com/users/9533909/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Pemidi1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hassanzadeh-sd"><img src="https://github-readme-stats.vercel.app/api?username=hassanzadeh-sd&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saji's GitHub stats" /></a>
+
+<a href="http://www.github.com/hassanzadeh-sd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzadeh-sd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/hassanzadeh-sd"><img src="https://activity-graph.herokuapp.com/graph?username=hassanzadeh-sd&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
