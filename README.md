@@ -1,20 +1,3 @@
-
-<div align="center">
-  <br>
-  
-  # Hello, world! 👋
-
-  #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/hassanzadeh-sd/) - [Stack Overflow](https://stackoverflow.com/users/9533909/hassanzadeh-sd) - [Medium](https://medium.com/@hassanzadeh.sd) - [Twitter](https://twitter.com/hassanzadeh_sd) - [Email](mailto:hassanzadeh.sd@gmail.com)
-  <br>
-  
-
-
-  <br>
-  <br>
-</div>
-
-
 Hi 👋 My name is "Sajjad Hassanzadeh" as "Saji"
 =============================================
 
@@ -41,7 +24,9 @@ src="https://img.shields.io/twitter/follow/hassanzadeh_sd?logo=twitter&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://stackoverflow.com/users/9533909/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Pemidi1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp; <a href="https://www.linkedin.com/in/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp; <a href="https://stackoverflow.com/users/9533909/hassanzadeh-sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;<a href="https://www.twitter.com/hassanzadeh_sd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+[Medium](https://medium.com/@hassanzadeh.sd) 
+</p>
 
 ### Badges
 
