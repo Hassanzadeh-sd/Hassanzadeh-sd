@@ -1,7 +1,7 @@
 Hi 👋 My name is "Sajjad Hassanzadeh" as "Saji"
 =============================================
 
-Python Back-end Developer and DevOps Engineer
+DevOps Engineer and Backend Developer
 -------------------------
 
 * ✉️  You can contact me at [hassanzadeh.sd@gmail.com](mailto:hassanzadeh.sd)
